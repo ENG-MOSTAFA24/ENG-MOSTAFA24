@@ -49,19 +49,6 @@ I'm documenting my entire learning journey and progress here on GitHub.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-</div>
-
-> ⚠️ Replace `YOUR_USERNAME` above with your actual GitHub username to activate the stats cards.
-
----
-
 ## 📬 Contact
 
 <div align="center">
